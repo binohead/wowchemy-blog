@@ -18,7 +18,7 @@ home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(255, 255, 255)"
 
 [dark]
-  background = "#090a0b"
+  background = "#3498DB"
   home_section_odd = "#090a0b"
   home_section_even = "#090a0b"
   menu_primary = "#090a0b"
