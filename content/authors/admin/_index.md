@@ -17,4 +17,4 @@ social:
 organizations: []
 superuser: true
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Andy is a research adjunct in biology at Dalhousie University in Halifax, Nova Scotia. He birds too much, and practices piano and trombone too little.
+Andy is a research adjunct in biology at Dalhousie University in Halifax, Nova Scotia. He birds too much, and practices piano and trombone too little.
