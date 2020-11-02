@@ -11,4 +11,8 @@ design:
     color: "#3498DB"
     text_color_light: true
 ---
-Testing what this body is.
+<style>
+body {
+  background-color: #E6E6FA;
+}
+</style>
