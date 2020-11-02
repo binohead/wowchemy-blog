@@ -11,8 +11,3 @@ design:
     color: "#3498DB"
     text_color_light: true
 ---
-<style>
-body {
-  background-color: #E6E6FA;
-}
-</style>
