@@ -2,6 +2,7 @@
 title: Why words aren't enough
 subtitle: A passage about Chinese characters triggers cool insights on translatability
 date: 2020-10-31T11:25:56.838Z
+summary: A passage about Chinese characters triggers cool insights on translatability
 draft: false
 featured: true
 image:
