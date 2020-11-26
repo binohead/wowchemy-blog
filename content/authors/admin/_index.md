@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: I mostly study animal communication, especially in birds, but I do lots of
   other stuff.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: about/#contact
+# - icon: envelope
+#    icon_pack: fas
+#    link: about/#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/binohead
