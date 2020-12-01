@@ -8,6 +8,6 @@ subtitle: All the bird news that's fit to print (and plenty that's not).
 active: true
 design:
   background:
-    color: "#3498DB"
+    color: "#87CEFA"
     text_color_light: true
 ---
