@@ -6,11 +6,6 @@
 [[main]]
   name = "ANDY'S BIRD BLOG"
   url = "/"
-  weight = 1
-
-[[main]]
-  name = "Home"
-  url = "/"
   weight = 10
 
 [[main]]
