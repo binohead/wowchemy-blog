@@ -2,6 +2,10 @@
 widget: blank
 title: Handy links
 subtitle: Some links you might find useful
+design:
+  background:
+    color: "#F5F5F5"
+    text_color_light: false
 ---
 
 ### Nature, local and beyond
