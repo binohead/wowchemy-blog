@@ -1,5 +1,5 @@
 ---
-widget: blank
+#widget: blank
 #title: Handy links
 #subtitle: Some links you might find useful
 design:
