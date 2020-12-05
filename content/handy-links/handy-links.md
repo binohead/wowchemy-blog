@@ -8,7 +8,7 @@ design:
     text_color_light: false
 ---
 <div class="row">
-<div class="col-sm-6">
+<div class="col-sm-6" style="background-color:white">
 <h3>Nature, local and beyond</h3>
 
 <hr />
