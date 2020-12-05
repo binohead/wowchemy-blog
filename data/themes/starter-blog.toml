@@ -5,7 +5,7 @@ name = "Starter Blog"
 light = true
 
 # Primary
-primary = "#d2ecf7"
+primary = "#2962ff"
 
 # Menu
 menu_primary = "#F5F5F5"
