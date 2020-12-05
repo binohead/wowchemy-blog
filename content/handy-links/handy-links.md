@@ -1,11 +1,12 @@
 ---
-#widget: blank
-#title: Handy links
-#subtitle: Some links you might find useful
+widget: blank
+title: Handy links
+subtitle: Some links you might find useful
 design:
   background:
     color: "#F5F5F5"
     text_color_light: false
+    columns: '1'
 ---
 <div class="row">
 <div class="col-sm-6" style="background-color:white">
