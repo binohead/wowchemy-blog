@@ -13,7 +13,7 @@ menu:
 weight: 1
 ---
 
-##Species at risk
+## Species at risk
 
 The most familiar list of species at risk is the federal one proposed by COSEWIC (the Committee for the Status of Endangered Wildlife in Canada). But several other lists exist, each with a different emphasis, depending on jurisdiction, geographic coverage, and sources of information.
 
@@ -23,7 +23,7 @@ The most familiar list of species at risk is the federal one proposed by COSEWIC
 [Maritimes list](http://leonardlab.biology.dal.ca/Andy/conservation/MaritimePriority.pdf) (from Partners in Flight)
 [Natural Heritage / Conservation Data Centers](http://explorer.natureserve.org/) (Global, G1-5 and Subnational, S1-5)
 
-##Population trends
+## Population trends
 
 There's years of data on many species available on the web, collected by various methods and updated constantly. The websites vary in how user-friendly they are, but are enormously distracting once you get the hang of them.
 
@@ -34,7 +34,7 @@ There's years of data on many species available on the web, collected by various
 [Hawk migration counts](http://hawkcount.org/)
 [Bird atlasses](http://www.mba-aom.ca/english/index.html) (via the maritimes atlas)
 
-##Conservation plans
+## Conservation plans
 
 ​    [Comprehensive conservation plans](http://www.nabci.net/Canada/English/planning.html) exist for various groups of birds (from North American Bird Conservation Initiative)
 
