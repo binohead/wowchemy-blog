@@ -1,22 +1,23 @@
 ---
-title: renamed the whole title
-linktitle: renamed the link title
+title: the title in front matter
+linktitle: the link title in front matter
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   example:
-    parent: Nature
-    weight: 1
+    parent: Tips
+    weight: 15
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
 
-Seeing if the filename has to be "example", the title has to be that, or the linktitle has to be TIps 1 and 2.
+So the name of the file can be anything, as long as the front matter is OK.
+In the front matter, the whole book is after menu, which I'm not sure needs to be there (here it's the Overview). The actual book are files  under the next thing, example, so they're files in the example folder that can be named anything if they end in ".md".
 
-## Tip 1
+## Content in body with two hash tags
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -29,7 +30,7 @@ Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet,
 Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
 
 
-## Tip 2
+## Another thing with 2 hash tags
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
