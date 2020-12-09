@@ -14,11 +14,11 @@ menu:
 weight: 1
 ---
 
-#### ## Research around the province
+## Research around the province
 
 Click [here](http://maps.google.ca/maps/ms?ie=UTF8&hl=en&msa=0&ll=45.282617,-63.852539&spn=4.027121,8.756104&z=7&msid=105411730529662371157.000470c76ed43e70bf5f2) for a map of where bird research is happening in Nova Scotia. Click on the text in the bubbles to go straight to a researcher's website.
 
-#### ## My research
+## My research
 
 Click [here](http://leonardlab.biology.dal.ca/Research.html) to see the bird research going on in Marty Leonard's lab at Dalhousie, where I work.
 
