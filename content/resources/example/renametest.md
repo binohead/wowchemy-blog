@@ -1,6 +1,6 @@
 ---
-title: renamed test
-linktitle: Tips 1-2
+title: renamed the whole title
+linktitle: renamed the link title
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -14,7 +14,7 @@ menu:
 weight: 1
 ---
 
-Seeing if the filename has to be "example".
+Seeing if the filename has to be "example", the title has to be that, or the linktitle has to be TIps 1 and 2.
 
 ## Tip 1
 
