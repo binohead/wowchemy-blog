@@ -17,6 +17,8 @@ weight: 1
 So the name of the file can be anything, as long as the front matter is OK.
 In the front matter, the whole book is after menu, which I'm not sure needs to be there (here it's the Overview). The actual book are files  under the next thing, example, so they're files in the example folder that can be named anything if they end in ".md".
 
+Here, Tips is the parent (=chapter), the link in the front matter is the article title, and the title is just the first heading in the actual article.
+
 ## Content in body with two hash tags
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
