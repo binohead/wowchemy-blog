@@ -7,7 +7,7 @@
   name = "ANDY'S BIRD BLOG"
   url = "/"
   weight = 10
-  
+
  [[main]]
   name = "Links"
   url = "handy-links/"
@@ -17,3 +17,8 @@
   name = "About"
   url = "about/"
   weight = 20
+
+[[main]]
+  name = "Resources"
+  url = "resources/"
+  weight = 25
