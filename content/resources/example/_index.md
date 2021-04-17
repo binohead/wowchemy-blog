@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: An Example Course
-summary: Here I've tried to fix this for me.
+linktitle: Links
+summary: Here's handy links that folks are often asking me about.
 weight: 1
 
 # Page metadata.
