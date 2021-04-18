@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Links
-summary: Here's handy links that folks are often asking me about.
+linktitle: Methods
+summary: Here's the textbook for BIOL3630.
 weight: 1
 
 # Page metadata.
-title: Overview
+title: BIOL 3630 textbook
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   methods:
-    name: Nature
+    name: Introduction
     weight: 1
 ---
 
