@@ -1,5 +1,5 @@
 ---
-title: Page1
+title: Initial observations
 linktitle: Initial observations
 toc: true
 type: docs
