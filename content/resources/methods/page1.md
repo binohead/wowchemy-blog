@@ -9,15 +9,14 @@ menu:
   methods:
     parent: Getting started
     weight: 1
-header:
-  caption: "Franklin's Gull at Black Rock Beach"
-  image: "gull.jpg"
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
 
-![shorepic](shorepic.jpg)
+
+
+![image-20210420083357206](image-20210420083357206.png)
 
 Here I'll give some tips on just watching animals.
 
