@@ -14,9 +14,7 @@ menu:
 weight: 1
 ---
 
-
-
-![image-20210420074418627](shorepic.png)
+![shorepic](shorepic.png)
 
 Here I'll give some tips on just watching animals.
 
