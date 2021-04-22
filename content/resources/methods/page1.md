@@ -18,7 +18,7 @@ weight: 1
 ---
 
 <img src="image-20210420083357206.png"
-     alt="Shore in png" />
+     alt="Shore in png">
 
 Here I'll give some tips on just watching animals.
 
