@@ -10,7 +10,7 @@ menu:
     parent: Getting started
     weight: 1
 header:
-  image: "gull.JPG"
+  image: "shore.jpg"
   caption: "Georges Island, Halifax harbour"
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
