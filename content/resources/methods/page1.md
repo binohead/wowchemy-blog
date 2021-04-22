@@ -9,22 +9,12 @@ menu:
   methods:
     parent: Getting started
     weight: 1
-header:
-  image: "shore.jpg"
-  caption: "Georges Island, Halifax harbour"
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
 
-<img src="image-20210420083357206.png"
-     alt="Shore in png">
-
-![image-20210420083357206.png](image-20210420083357206.png)
-
-![gull.JPG](gull.JPG)
-
-Here I'll give some tips on just watching animals. Gull in static working?
+Here I'll give some tips on just watching animals. Site still broken?
 
 
 
