@@ -22,7 +22,7 @@ weight: 1
 
 ![image-20210420083357206.png](image-20210420083357206.png)
 
-![gull.JPG](gull.JPG)
+![gull.jpg](Gull)
 
 Here I'll give some tips on just watching animals.
 
