@@ -18,7 +18,7 @@ weight: 1
 
 ![image-20210420083357206](image-20210420083357206.png)
 
-Here I'll give some tips on just watching animals.
+Here I'll give some tips on just watching animals. Did this reversion work?
 
 ## Tip 1
 
