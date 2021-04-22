@@ -20,13 +20,9 @@ weight: 1
 <img src="image-20210420083357206.png"
      alt="Shore in png">
 
-![image-20210420083357206.png](image-20210420083357206.png)
-
-![gull.jpg](Gull)
+![image-20210420083357206](image-20210420083357206.png)
 
 Here I'll give some tips on just watching animals.
-
-
 
 ## Tip 1
 
