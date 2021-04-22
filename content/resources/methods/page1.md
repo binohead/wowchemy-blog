@@ -24,7 +24,7 @@ weight: 1
 
 ![gull.JPG](gull.JPG)
 
-Here I'll give some tips on just watching animals.
+Here I'll give some tips on just watching animals. Gull in static working?
 
 
 
