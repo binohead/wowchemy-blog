@@ -15,7 +15,7 @@ type: docs  # Do not modify.
 # AH ADDED IMAGE
 header:
   caption: "Franklin's Gull at Black Rock Beach"
-  image: "gull.jpg"
+  image: "peacock.jpg"
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
