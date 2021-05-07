@@ -9,13 +9,6 @@ menu:
   methods:
     parent: Getting started
     weight: 1
-    
-image:
-  placement: 1
-  caption: "Photo by a student"
-  focal_point: "Center"
-  preview_only: false
-  alt_text: An optional description of the image for screen readers.
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
@@ -23,7 +16,7 @@ weight: 1
 
 Here I'll give some tips on just watching animals.
 
-{{< figure src="gull.JPG" caption="A caption" >}}
+{{< figure src="featured.jpg" caption="A caption" >}}
 
 ## Tip 1
 
