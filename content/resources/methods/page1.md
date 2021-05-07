@@ -16,7 +16,7 @@ weight: 1
 
 Here I'll give some tips on just watching animals.
 
-{{< figure src="peacock.jpg" caption="A caption" >}}
+{{< figure src="gull.jpg" caption="A caption" >}}
 
 ## Tip 1
 
