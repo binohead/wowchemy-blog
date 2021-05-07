@@ -16,6 +16,8 @@ weight: 1
 
 Here I'll give some tips on just watching animals.
 
+{{< figure src="image.jpg" caption="A caption" >}}
+
 ## Tip 1
 
 Get out and look around. Always be noticing what's going on. Keeping your ears open is a huge help; I pick up on most things in nature because I notice sounds (though maybe that's because my eyesight's terrible ...).
