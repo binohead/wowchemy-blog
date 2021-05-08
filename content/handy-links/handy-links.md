@@ -9,7 +9,7 @@ design:
     columns: '1'
 ---
 <div class="row">
-<div class="col-sm-6" style="background-color:white padding: 5px">
+<div class="col-sm-6" style="background-color:white">
 <h3>Nature, local and beyond</h3>
 
 <hr />
@@ -28,7 +28,7 @@ design:
 </ol>
 </div>
 
-<div class="col-sm-6" style="background-color:white padding: 5px">
+<div class="col-sm-6" style="background-color:white">
 <h3>More tips for students</h3>
 
 <hr />
@@ -47,7 +47,7 @@ design:
 </div>
 
 <div class="row">
-<div class="col-sm-6" style="background-color:white padding: 5px">
+<div class="col-sm-6" style="background-color:white">
 <h3>Research</h3>
 
 <hr />
@@ -61,7 +61,7 @@ Click&nbsp;<a href="http://maps.google.ca/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&am
 Click&nbsp;<a href="http://leonardlab.biology.dal.ca/Andy/publications.html">here</a>&nbsp;to see a partial list of my publications, with pdf&#39;s of some.</p>
 </div>
 
-<div class="col-sm-6" style="background-color:white padding: 5px">
+<div class="col-sm-6" style="background-color:white">
 <h3>Idle hours</h3>
 
 <hr />
