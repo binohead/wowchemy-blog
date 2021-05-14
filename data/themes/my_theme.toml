@@ -1,0 +1,24 @@
+# Theme metadata
+name = "Andy's Blog"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#2962ff"
+
+# Menu
+menu_primary = "#2962ff"
+menu_text = "fcfcfd"
+menu_text_active = "#2962ff"
+menu_title = "fcfcfd"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(255, 255, 255)"
+
+[dark]
+  background = "#3498DB"
+  home_section_odd = "#3498DB"
+  home_section_even = "#3498DB"
+  menu_primary = "#3498DB"
