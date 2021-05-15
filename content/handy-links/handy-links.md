@@ -5,7 +5,7 @@ subtitle: Some links you might find useful
 design:
   background:
     color: "#F5F5F5"
-    text_color_light: true
+#    text_color_light: true
     columns: '2'
 ---
 <div class="row">
