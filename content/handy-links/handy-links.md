@@ -6,7 +6,7 @@ design:
   background:
     color: "#F5F5F5"
 #    text_color_light: true
-    columns: '2'
+    columns: '1'
 ---
 <div class="row">
 <div class="col-sm-6">
