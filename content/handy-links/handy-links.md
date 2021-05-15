@@ -27,6 +27,10 @@ design:
 <ol>
 </ol>
 </div>
+#added div:
+<div class="col-sm-6">
+<p></p>
+</div>
 
 <div class="col-sm-6" style="background-color:white">
 <h3>More tips for students</h3>
