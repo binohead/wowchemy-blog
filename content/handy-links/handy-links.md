@@ -9,7 +9,7 @@ design:
     columns: '1'
 ---
 <div class="row">
-<div class="col-sm-6">
+<div class="col-sm-5" style="background-color:white">
 <h3>Nature, local and beyond</h3>
 
 <hr />
@@ -28,11 +28,11 @@ design:
 </ol>
 </div>
 #added div:
-<div class="col-sm-6">
+<div class="col-sm-1">
 <p></p>
 </div>
 
-<div class="col-sm-6" style="background-color:white">
+<div class="col-sm-5" style="background-color:white">
 <h3>More tips for students</h3>
 
 <hr />
