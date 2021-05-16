@@ -50,7 +50,7 @@ design:
 </div>
 
 <div class="row">
-<div class="col-sm-6" style="background-color:white">
+<div class="col-sm-5" style="background-color:white">
 <h3>Research</h3>
 
 <hr />
@@ -63,8 +63,10 @@ Click&nbsp;<a href="http://maps.google.ca/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&am
 <br />
 Click&nbsp;<a href="http://leonardlab.biology.dal.ca/Andy/publications.html">here</a>&nbsp;to see a partial list of my publications, with pdf&#39;s of some.</p>
 </div>
+<div class="col-sm-1">
 
-<div class="col-sm-6" style="background-color:white">
+</div>
+<div class="col-sm-5" style="background-color:white">
 <h3>Idle hours</h3>
 
 <hr />
