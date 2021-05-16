@@ -27,7 +27,6 @@ design:
 <ol>
 </ol>
 </div>
-#added div:
 <div class="col-sm-1">
 <p></p>
 </div>
