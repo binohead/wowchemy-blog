@@ -48,6 +48,11 @@ design:
 </div>
 </div> 
 <div class="row" margin: 5%;>
+ <div class="col-sm-12">
+   <br>
+ </div>
+</div>
+<div class="row" margin: 5%;>
 <div class="col-sm-5" style="background-color:white">
 <h3>Research</h3>
 
