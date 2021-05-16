@@ -28,7 +28,7 @@ design:
 </ol>
 </div>
 <div class="col-sm-1">
-<p></p>
+
 </div>
 
 <div class="col-sm-5" style="background-color:white">
