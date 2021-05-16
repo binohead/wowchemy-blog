@@ -8,7 +8,7 @@ design:
 #    text_color_light: true
     columns: '1'
 ---
-<div class="row">
+<div class="row" margin: 5% 0;>
 <div class="col-sm-5" style="background-color:white">
 <h3>Nature, local and beyond</h3>
 
@@ -47,9 +47,8 @@ design:
 <a href="https://www.osnabirds.org/Jobs.aspx" target="_blank">Ornithological jobs</a>&nbsp;from the Ornithological Societies of North America. Most are seasonal and volunteer, but often very cool.<br />
 <a href="http://workcabin.ca/">WorkCabin Green Career Postings</a>&nbsp;is a general clearinghouse for environmental jobs in Canada.</p>
 </div>
-</div>
-
-<div class="row">
+</div> 
+<div class="row" margin: 5% 0;>
 <div class="col-sm-5" style="background-color:white">
 <h3>Research</h3>
 
