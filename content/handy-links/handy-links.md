@@ -8,7 +8,7 @@ design:
 #    text_color_light: true
     columns: '1'
 ---
-<div class="row" margin: 5% 5%;>
+<div class="row" margin: 5%;>
 <div class="col-sm-5" style="background-color:white">
 <h3>Nature, local and beyond</h3>
 
@@ -47,7 +47,7 @@ design:
 <a href="http://workcabin.ca/">WorkCabin Green Career Postings</a>&nbsp;is a general clearinghouse for environmental jobs in Canada.</p>
 </div>
 </div> 
-<div class="row" margin: 5% 5;>
+<div class="row" margin: 5%;>
 <div class="col-sm-5" style="background-color:white">
 <h3>Research</h3>
 
