@@ -3,7 +3,7 @@ title: Testing whether I remember
 subtitle: Seeing whether I remember how to do all this.
 date: 2020-05-15T17:54:39.467Z
 draft: false
-featured: fals
+featured: false
 image:
   filename: featured
   focal_point: Smart
