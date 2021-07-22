@@ -1,5 +1,5 @@
 ---
-title: flat-topped Goldenrod
+title: Flat-topped Goldenrod
 subtitle: One of many, many goldenrods.
 date: 2021-07-21T20:54:39.467Z
 draft: false
