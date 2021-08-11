@@ -10,3 +10,5 @@ image:
   preview_only: false
 ---
 Here's where I'll find out.
+
+Especially, whether this puffin will show up. ![puffins](puffins.jpg)
