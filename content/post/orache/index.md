@@ -6,7 +6,7 @@ draft: false
 featured: true
 image:
   filename: featured
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
 ---
 When I saw this in a basil pot on the deck, I figured it'd be just some noxious weed.

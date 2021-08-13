@@ -3,7 +3,7 @@ title: Flat-topped Goldenrod
 subtitle: One of many, many goldenrods.
 date: 2021-07-21T20:54:39.467Z
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Center
