@@ -3,7 +3,7 @@ title: Common Orache
 subtitle: Well, common maybe, but entirely unexpected
 date: 2021-08-10T20:54:39.467Z
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Center
