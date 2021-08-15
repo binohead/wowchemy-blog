@@ -3,7 +3,7 @@ title: Owl Power
 subtitle: What is it about owls?
 date: 2021-08-11T20:54:39.467Z
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Center
