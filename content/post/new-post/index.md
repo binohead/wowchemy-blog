@@ -1,10 +1,14 @@
 ---
 title: Here's another post
 subtitle: Testing whether the subtitle works
-date: 2020-05-09T17:18:05+01:00
+date: 2020-05-09T18:18:05+01:00
 summary:  Testing whether the summary works
 draft: false
-image: catbird.jpg
+featured: false
+image:
+  filename: catbird.jpg
+  focal_point: Smart
+  preview_only: false
 ---
 
 {{< figure src="catbird.jpg" title="A catbird" >}}
