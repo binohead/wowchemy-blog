@@ -2,7 +2,6 @@
 title: Here's another post
 subtitle: Testing whether the subtitle works
 date: 2020-05-09T18:18:05+01:00
-summary:  Testing whether the summary works
 draft: false
 featured: false
 image:
@@ -12,8 +11,6 @@ image:
 ---
 
 Testing whether the first paragraph works.
-
-<!--more-->
 
 You might say that it's a catbird.
 
