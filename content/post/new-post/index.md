@@ -6,12 +6,12 @@ summary:  Testing whether the summary works
 draft: false
 featured: false
 image:
-  filename: catbird.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
 
-{{< figure src="catbird.jpg" title="A catbird" >}}
+{{< figure src="featured.jpg" title="A catbird" >}}
 
 Testing whether the first paragraph works.
 
