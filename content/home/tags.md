@@ -1,8 +1,14 @@
 ---
 widget: tag_cloud
 headless: true  # This file represents a page section.
-
-# ... Put Your Section Options Here (title etc.) ...
+weight: 40
+title: Tag Cloud
+subtitle: All the topics covered.
+active: true
+design:
+  background:
+    color: "#F5F5F5"
+    text_color_light: false# ... Put Your Section Options Here (title etc.) ...
 
 content:
   # Choose the taxonomy from `config.yaml` to display (e.g. tags, categories)
