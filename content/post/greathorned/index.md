@@ -2,7 +2,6 @@
 title: Owl Power
 subtitle: What is it about owls?
 date: 2021-08-11T20:54:39.467Z
-tags = ["birds", "birding"]
 draft: false
 featured: false
 image:
