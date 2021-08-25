@@ -8,8 +8,8 @@ active: true
 design:
   background:
     color: "#F5F5F5"
-    text_color_light: false# ... Put Your Section Options Here (title etc.) ...
-
+    text_color_light: false
+  # ... Put Your Section Options Here (title etc.) ...
 content:
   # Choose the taxonomy from `config.yaml` to display (e.g. tags, categories)
   taxonomy: tags
