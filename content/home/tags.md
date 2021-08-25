@@ -1,16 +1,7 @@
 ---
 widget: tag_cloud
 headless: true  # This file represents a page section.
-
-# ... Put Your Section Options Here (title etc.) ...
-
-title: My New Section
-subtitle:
 weight: 15  # section position on page
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-
 active: true
 design:
   background:
