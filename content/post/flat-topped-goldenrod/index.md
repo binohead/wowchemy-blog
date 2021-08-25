@@ -1,7 +1,7 @@
 ---
 title: Flat-topped Goldenrod
 subtitle: One of many, many goldenrods.
-tags = ["plants"]
+tags = ['plants']
 date: 2021-07-21T20:54:39.467Z
 draft: false
 featured: false
