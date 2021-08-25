@@ -1,6 +1,7 @@
 ---
 title: Some kind of holly
 subtitle: Never trust your friend when it comes to berries
+tags = ["plants"]
 date: 2021-08-16T20:54:39.467Z
 draft: false
 featured: false
