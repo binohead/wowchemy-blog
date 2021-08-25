@@ -3,10 +3,6 @@ widget: tag_cloud
 headless: true  # This file represents a page section.
 weight: 15  # section position on page
 active: true
-design:
-  background:
-    color: "#F5F5F5"
-    text_color_light: false
 content:
   # Choose the taxonomy from `config.yaml` to display (e.g. tags, categories)
   taxonomy: tags
