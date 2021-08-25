@@ -1,17 +1,19 @@
 ---
+# An instance of the Tag Cloud widget.
+# Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
-headless: true  # This file represents a page section.
-weight: 40
-title: Tag Cloud
-subtitle: All the topics covered.
-active: true
-design:
-  background:
-    color: "#F5F5F5"
-    text_color_light: false
-  # ... Put Your Section Options Here (title etc.) ...
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 120
+
+title: Popular Topics
+subtitle: ''
+
 content:
-  # Choose the taxonomy from `config.yaml` to display (e.g. tags, categories)
+# Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
   taxonomy: tags
   # Choose how many tags you would like to display (0 = all tags)
   count: 20
@@ -20,4 +22,3 @@ design:
   font_size_min: 0.7
   font_size_max: 2.0
 ---
-
