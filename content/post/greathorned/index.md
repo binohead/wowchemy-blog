@@ -4,6 +4,9 @@ subtitle: What is it about owls?
 date: 2021-08-11T20:54:39.467Z
 draft: false
 featured: false
+tags:
+    - Birds
+    - Birding
 image:
   filename: featured
   focal_point: Center
