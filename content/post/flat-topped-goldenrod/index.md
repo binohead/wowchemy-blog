@@ -5,13 +5,17 @@ date: 2021-07-21T20:54:39.467Z
 draft: false
 featured: false
 tags:
-    - plants
-    - iseek
-  image:
-    filename: featured
-    focal_point: Center
+
+   - plants
+   - iseek
+     image:
+         filename: featured
+         focal_point: Center
+
     preview_only: false
 ---
+
+
 
 The best the app could do on other goldenrods was, well, goldenrod. But for this one, the species popped up right away. Apparently it, along with 10 or so other species, stands out so much from *Solidago* that they were all recently split into their own genus.
 
