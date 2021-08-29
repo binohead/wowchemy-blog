@@ -7,10 +7,10 @@ featured: false
 tags:
    - plants
    - iseek
-     image:
-         filename: featured
-         focal_point: Center
-    preview_only: false
+image:
+   filename: featured
+   focal_point: Center
+   preview_only: false
 ---
 
 
