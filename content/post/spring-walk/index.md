@@ -4,6 +4,8 @@ subtitle: A walk up the Atlantic View Trail.
 date: 2021-05-22T20:54:39.467Z
 draft: false
 featured: false
+tags:
+   - places
 image:
   filename: featured
   focal_point: Smart

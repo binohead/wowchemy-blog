@@ -5,8 +5,8 @@ date: 2021-08-11T20:54:39.467Z
 draft: false
 featured: false
 tags:
-    - Birds
-    - Birding
+    - birds
+    - birding
 image:
   filename: featured
   focal_point: Center

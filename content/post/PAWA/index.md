@@ -4,6 +4,9 @@ subtitle: To put it mildly
 date: 2021-08-17T20:54:39.467Z
 draft: false
 featured: true
+tags:
+   - birds
+   - birding
 image:
   filename: featured
   focal_point: Center

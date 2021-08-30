@@ -5,6 +5,9 @@ date: 2020-10-31T11:25:56.838Z
 summary: A passage about Chinese characters triggers cool insights on translatability
 draft: false
 featured: true
+tags:
+   - communication
+   - language
 image:
   filename: featured.jpg
   focal_point: Smart

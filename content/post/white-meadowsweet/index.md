@@ -4,6 +4,9 @@ subtitle: A plant I thought I knew.
 date: 2021-07-20T20:54:39.467Z
 draft: false
 featured: false
+tags:
+   - plants
+   - iseek
 image:
   filename: featured
   focal_point: Center
