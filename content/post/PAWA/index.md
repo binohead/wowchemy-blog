@@ -3,7 +3,7 @@ title: Confusing fall warblers
 subtitle: To put it mildly
 date: 2021-08-17T20:54:39.467Z
 draft: false
-featured: true
+featured: false
 tags:
    - birds
    - birding
