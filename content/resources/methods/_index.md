@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
 linktitle: Methods
-summary: Here's the textbook for BIOL3630.
+summary: Here's the textbook for BIOL3062.
 weight: 1
 
 # Page metadata.
-title: BIOL 3630 textbook
+title: BIOL 3062 textbook
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -26,12 +26,12 @@ menu:
     weight: 1
 ---
 
-## Welcome to BIOL3630!
+## Welcome to BIOL3062!
 
 Here you'll find:
 
-* **More extended discussions of the handounts**
+* **Lecture Notes**
 * **Links to supplementary online materials**
 * **Tips based on previous years of the course**
 
-None of the material is main course content. It's just here in case it helps you with that content.
+Hope this helps!
