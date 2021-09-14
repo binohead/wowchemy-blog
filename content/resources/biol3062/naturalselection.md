@@ -26,18 +26,18 @@ But the answer that a behavioral ecologist would give has to do with the functio
 
 <div style="background-color:lightskyblue; margin-left: 80px">
 
-## Why sing?
+**Why sing?**
 
-### Because they're happy
+- Because they're happy
 Some research shows birds release endorphins when they sing.
 
-### Because they heard another bird sing.
+**Because they heard another bird sing.**
 Playback experiments are a standard way to get birds to sing.
 
-### Because their hormone levels are high
+***Because their hormone levels are high***
 Birds sing more in the spring, when testosterone peaks.
 
-### To defend territories and attract mates
+***To defend territories and attract mates***
 The usual answer a behavioural ecologist would give.
 </div>
 
@@ -55,7 +55,7 @@ A second thing I want to do in this lecture is, is impress on you how *not* to t
 
 So to do all this, we're going to start with a review of evolution by natural selection.
 
-##Evolution by Natural Selection
+## Evolution by Natural Selection
 
 This will go fairly quickly because you've had all this in your previous courses.
 
@@ -93,7 +93,7 @@ Right. So what we've got is selection on traits that somehow must be conveyed to
 
 
 
-## How animals make decisions
+## Decisions
 
 In some cases, the decision is made in a straightforward way **by the genes**. In fruit flies, for example, there are rovers and there are sitters. I'll  just whip through this example, but basically, rovers move around more than sitters do when they find a patch of food, and that's more adaptive in certain circumstances. And in other circumstances, it's more adaptive to be a sitter. And this "decision" of which one to be is basically a mutation. It's at one one locus of the gene tat codes for a particular enzyme. So that's a case of a very simple behavioral decision that's just like being spotted or not spotted.  But it's a behavior.
 
