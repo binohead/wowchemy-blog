@@ -18,17 +18,17 @@ weight: 1
 
 # Natural Selection 
 
-  [handy-links](../../handy-links) 
+
 
 Now that you're signed up for the course, I suppose I should tell you what behavioral ecology is.  The easiest way to explain it is with an example. 
 
-##Why do birds sing?
+## Why do birds sing?
 
 If we ask why do birds sing, we might have lots of different answers to that. Your aunt might say because they're happy.  Somebody else might say because another bird stimulated them, or it could be that their hormone levels are high. Those are valid answers.  So are answers that physiologists might give, or psychologists might give, or somebody just birdwatching might give.
 
 But the answer that a behavioral ecologist would give has to do with the function of the behavior and why it's an adaptive behavior: birds sing to defend territories and attract mates.  In other words, they ask what good does the behaviour do for the animal?  What's its adaptive function?
 
-<div style="background-color:lightskyblue">
+<div style="background-color:lightskyblue; margin-left: 80px">
 
 ## Why sing?
 
