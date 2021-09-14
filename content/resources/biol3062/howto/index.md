@@ -47,7 +47,7 @@ By exclusive, I mean that they should kind of rule out other hypotheses.  That c
 
 So let me show you an example of this about a basic approach to this question of optimal design.  What what job does a behavior do? What's its function?  You see a behavior and how does its design lead to particular effects, specifically adaptive effects?  In other words, things that are going to increase the fitness of the animal and therefore be selected for through evolution by natural selection.
 
-<div class="row" style="background-color:lightblue; margin-left: 80px">
+<div class="row" style="background-color:lightblue; padding-left: 80px">
 <h3>Why do zebra-tailed lizards wag their tail?</h3>
   So here's the example. Here's a zebra-tailed lizard.  And look at how they wave their tail. And they wave their tail more when there's a predator around.  They don't do it all that much.  When they're sort of doing mating displays or territorial displays like these ones who are just doing for that, they sort of bob their heads.
   <br>
