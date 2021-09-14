@@ -28,7 +28,8 @@ If we ask why do birds sing, we might have lots of different answers to that. Yo
 
 But the answer that a behavioral ecologist would give has to do with the function of the behavior and why it's an adaptive behavior: birds sing to defend territories and attract mates.  In other words, they ask what good does the behaviour do for the animal?  What's its adaptive function?
 
-<span style="background-color:lightskyblue">
+<div style="background-color:lightskyblue">
+
 ##Why sing?
 
 ###Because they're happy
@@ -42,7 +43,7 @@ Birds sing more in the spring, when testosterone peaks.
 
 ###To defend territories and attract mates
 The usual answer a behavioural ecologist would give.
-</span>
+</div>
 
 In this course, we'll look at a whole bunch of ecological problems that are  thrown at animals and see behavior as the solutions to those problems. Animals have to find food, so we'll look at how they choose their diet, how they search for food.  Animals have to avoid predators, so we'll talk about how they group to do that, and how they hide from predators, and watch out for predators.  They have to find a mate, so we'll talk about behavioral solutions to that, too.  
 
