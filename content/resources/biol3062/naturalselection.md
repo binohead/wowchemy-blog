@@ -1,6 +1,6 @@
 ---
 title: Natural Selection
-linktitle: naturalselection
+linktitle: Natural Selection
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -13,10 +13,6 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-
-
-
-# Natural Selection 
 
 
 
@@ -97,7 +93,7 @@ Right. So what we've got is selection on traits that somehow must be conveyed to
 
 
 
-##How animals make decisions
+## How animals make decisions
 
 In some cases, the decision is made in a straightforward way **by the genes**. In fruit flies, for example, there are rovers and there are sitters. I'll  just whip through this example, but basically, rovers move around more than sitters do when they find a patch of food, and that's more adaptive in certain circumstances. And in other circumstances, it's more adaptive to be a sitter. And this "decision" of which one to be is basically a mutation. It's at one one locus of the gene tat codes for a particular enzyme. So that's a case of a very simple behavioral decision that's just like being spotted or not spotted.  But it's a behavior.
 
