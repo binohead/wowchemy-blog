@@ -22,7 +22,7 @@ header:
 # - weight: Position of link in menu.
 menu:
   biol3062:
-    name: Introduction
+    name: Welcome
     weight: 1
 ---
 
