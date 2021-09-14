@@ -30,18 +30,18 @@ But the answer that a behavioral ecologist would give has to do with the functio
 
 <div style="background-color:lightskyblue">
 
-##Why sing?
+## Why sing?
 
-###Because they're happy
+### Because they're happy
 Some research shows birds release endorphins when they sing.
 
-###Because they heard another bird sing.
+### Because they heard another bird sing.
 Playback experiments are a standard way to get birds to sing.
 
-###Because their hormone levels are high
+### Because their hormone levels are high
 Birds sing more in the spring, when testosterone peaks.
 
-###To defend territories and attract mates
+### To defend territories and attract mates
 The usual answer a behavioural ecologist would give.
 </div>
 
