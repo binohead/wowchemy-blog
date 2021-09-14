@@ -28,6 +28,8 @@ If we ask why do birds sing, we might have lots of different answers to that. Yo
 
 But the answer that a behavioral ecologist would give has to do with the function of the behavior and why it's an adaptive behavior: birds sing to defend territories and attract mates.  In other words, they ask what good does the behaviour do for the animal?  What's its adaptive function?
 
+<span style="background-color:green">Why sing?</span>
+
 <div class="row" style="background-color:lightblue">
 <h3>Why do birds sing?</h3>
   <h4>Because it makes them happy</h4>
