@@ -18,7 +18,7 @@ weight: 1
 
 # Natural Selection 
 
- 
+  [handy-links](../../handy-links) 
 
 Now that you're signed up for the course, I suppose I should tell you what behavioral ecology is.  The easiest way to explain it is with an example. 
 
@@ -28,16 +28,21 @@ If we ask why do birds sing, we might have lots of different answers to that. Yo
 
 But the answer that a behavioral ecologist would give has to do with the function of the behavior and why it's an adaptive behavior: birds sing to defend territories and attract mates.  In other words, they ask what good does the behaviour do for the animal?  What's its adaptive function?
 
-<span style="background-color:lightskyblue">Why sing?</span>
+<span style="background-color:lightskyblue">
+##Why sing?
 
-<div class="row" style="background-color:lightblue">
-<h3>Why do birds sing?</h3>
-  <h4>Because it makes them happy</h4>
-  Click&nbsp;<a href="http://maps.google.ca/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;ll=45.282617,-63.852539&amp;spn=4.027121,8.756104&amp;z=7&amp;msid=105411730529662371157.000470c76ed43e70bf5f2" target="blank">some research</a>&nbsp; shows endorphins are released when they sing.
-  <h4>Because they heard another bird sing</h4>
-  <p>Click&nbsp;<a href="http://leonardlab.biology.dal.ca/Research.html" target="blank">Playback experiments</a>&nbsp;are a standard tool for getting birds to sing.<br />
-<br />
-A classic use is for&nbsp;<a href="http://leonardlab.biology.dal.ca/Andy/publications.html">population monitoring</a>&nbsp;just to count birds.</p>
+###Because they're happy
+Some research shows birds release endorphins when they sing.
+
+###Because they heard another bird sing.
+Playback experiments are a standard way to get birds to sing.
+
+###Because their hormone levels are high
+Birds sing more in the spring, when testosterone peaks.
+
+###To defend territories and attract mates
+The usual answer a behavioural ecologist would give.
+</span>
 
 In this course, we'll look at a whole bunch of ecological problems that are  thrown at animals and see behavior as the solutions to those problems. Animals have to find food, so we'll look at how they choose their diet, how they search for food.  Animals have to avoid predators, so we'll talk about how they group to do that, and how they hide from predators, and watch out for predators.  They have to find a mate, so we'll talk about behavioral solutions to that, too.  
 
