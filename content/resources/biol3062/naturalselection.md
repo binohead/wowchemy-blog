@@ -25,19 +25,18 @@ If we ask why do birds sing, we might have lots of different answers to that. Yo
 But the answer that a behavioral ecologist would give has to do with the function of the behavior and why it's an adaptive behavior: birds sing to defend territories and attract mates.  In other words, they ask what good does the behaviour do for the animal?  What's its adaptive function?
 
 <div style="background-color:lightskyblue; margin-left: 80px">
+**Why do birds sing?**
 
-**Why sing?**
-
-- Because they're happy
+-  **Because they're happy**
 Some research shows birds release endorphins when they sing.
 
-**Because they heard another bird sing.**
+- **Because they heard another bird sing.**
 Playback experiments are a standard way to get birds to sing.
 
-***Because their hormone levels are high***
+- **Because their hormone levels are high**
 Birds sing more in the spring, when testosterone peaks.
 
-***To defend territories and attract mates***
+- **To defend territories and attract mates**
 The usual answer a behavioural ecologist would give.
 </div>
 
