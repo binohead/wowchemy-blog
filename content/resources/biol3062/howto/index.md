@@ -63,6 +63,9 @@ So let me show you an example of this about a basic approach to this question of
 
 <span title="***I am hovering over the text">Here's the  mousove text.r</span>
 
+Clicking this number[^fn-sample_footnote]
 
+[^fn-sample_footnote]: Handy! Now click the return link to go back.
 
 And we encourage you to think about these things through the course.  And that's part of the point of the of the behavior journal that you'll be keeping through this course.  OK. Now, there's two approaches to this idea of optimal design.  One thing is what we've been talking about already. You see the behavior and then you ask, what's it for?  And we're going to be doing more of this exercise in our Thursday,  Atlantic Time meeting this week.  And also, you'll be doing more of it in your behavior journals. But most behavior ecology kind of goes the other way where we recognize there's  ecological or social problem that the that the animal must solve.  And we ask what behavior is best for that. It's kind of going the other way.  It's one of our main tools for this is optimality models.  And we'll be talking about that. It's a it's a huge topic. And we'll be talking about it next week. 
+

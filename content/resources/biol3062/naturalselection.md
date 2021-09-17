@@ -123,3 +123,4 @@ And the problem with it is basically this. If you're arguing that a whole bunch 
 What behavioral ecologists study and how they talk about it and why behavioral ecologists avoid group selection arguments in the next lecture.
 
  
+
