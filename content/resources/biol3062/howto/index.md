@@ -63,10 +63,6 @@ So let me show you an example of this about a basic approach to this question of
 
 <span title="***I am hovering over the text">Here's the  mousove text.r</span>
 
-Clicking this number[^fn-sample_footnote]
-
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
-
 And we encourage you to think about these things through the course.  And that's part of the point of the of the behavior journal that you'll be keeping through this course. 
 
 <sup>[1](#myfootnote1)</sup>
