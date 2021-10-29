@@ -3,7 +3,7 @@ title: Brewster's Back
 subtitle: What's with that?
 date: 2021-08-30T20:54:39.467Z
 draft: false
-featured: true
+featured: false
 tags:
     - birding
 image:
