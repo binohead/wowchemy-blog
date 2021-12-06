@@ -3,7 +3,7 @@ title: Partridgeberry
 subtitle: Not quite wintergreen
 date: 2021-09-30T20:54:39.467Z
 draft: false
-featured: true
+featured: false
 tags:
     - plants
 image:
