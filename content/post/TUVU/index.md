@@ -3,7 +3,7 @@ title: The Woodland Vulture
 subtitle: Not what I expected
 date: 2021-10-30T20:54:39.467Z
 draft: false
-featured: true
+featured: false
 tags:
     - birds
     - birding
