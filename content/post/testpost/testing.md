@@ -8,7 +8,7 @@ tags:
     - plants
     - birds
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Center
   preview_only: false
 ---
