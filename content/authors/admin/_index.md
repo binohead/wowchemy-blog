@@ -1,6 +1,6 @@
 ---
 title: Andy Horn
-role: Research Adjunct (Faculty of Graduate Studies), Dalhousie University
+role: Adjunct (Faculty of Graduate Studies), Dalhousie University
 avatar_filename: avatar.jpg
 bio: I mostly study animal communication, especially in birds, but I do lots of
   other stuff.
