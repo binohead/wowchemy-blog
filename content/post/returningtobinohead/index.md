@@ -3,7 +3,7 @@ title: Returning to binohead
 subtitle: One of many, many goldenrods.
 date: 2022-10-21T20:54:39.467Z
 draft: false
-featured: true
+featured: false
 tags:
    - birds
    - iseek
