@@ -1,6 +1,6 @@
 ---
 title: Perennial Sow Thistle
-subtitle: One of many, many goldenrods.
+subtitle: Oh, you ubiquitous potherb, you!
 date: 2023-07-13T20:54:39.467Z
 draft: false
 featured: true
