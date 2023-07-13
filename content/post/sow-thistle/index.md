@@ -13,11 +13,13 @@ image:
    preview_only: false
 ---
 
-A random weed, growing from crevices on the Tower Road bridge across the railroad tracks, but then it's everywhere. And because I keep mixing up all the plants that look like that, for instance hawkweed:
+A random weed, growing from crevices on the Tower Road bridge across the railroad tracks, but then it's everywhere. Why would I feature it? Partly because I keep mixing up all the plants that look like that, for instance hawkweed ...
 
 ![hawkweed](hawkweed.jpg)
 
-Why would I feature it? Because I've always wondered about its milky sap. I see from the trusted internet that its milkiness is why the plant was fed to lactating sows, and thus the name. But I wasn't satisfied with that answer (being a seeker of the Truth and all).
+... many of which are edible, more (wild lettuce) or less (hawkweed?? I don't know).
+
+But mainly, I posted it because I've always wondered about its milky sap. I see from the trusted internet that its milkiness is why the plant was fed to lactating sows, and thus the name. But I wasn't satisfied with that answer (being a seeker of the Truth and all).
 
 I still don't have an answer, perhaps because I have the wrong question: why do sow thistles, milkweed, dandelions, etc etc all have milky sap?  Perhaps there's no answer, because they're each there for a different reason.
 
