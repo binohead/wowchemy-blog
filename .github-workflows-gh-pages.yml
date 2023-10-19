@@ -5,7 +5,7 @@ on:
   push:
     branches: ["ongithubpages"]
   # Allows you to run this workflow manually from the Actions tab on GitHub.
-  workflow_dispatch:
+  workflow_dispatch: on
 
 # Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
