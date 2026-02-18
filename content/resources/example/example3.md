@@ -15,7 +15,7 @@ weight: 1
 
 ## Species at risk
 
-The most familiar list of species at risk is the federal one proposed by COSEWIC (the Committee for the Status of Endangered Wildlife in Canada). But several other lists exist, each with a different emphasis, depending on jurisdiction, geographic coverage, and sources of information.
+Probably the most familiar list of species at risk is the federal one proposed by COSEWIC (the Committee for the Status of Endangered Wildlife in Canada). But several other lists exist, each with a different emphasis, depending on jurisdiction, geographic coverage, and sources of information.
 
 [Canada Species at Risk Act (SARA)](http://www.sararegistry.gc.ca/search/advSearchResults_e.cfm?stype=species&advkeywords=&op=1&locid=9&taxid=2&desid=0&schid=0&)
 [Nova Scotia Endangered Species Act](http://www.speciesatrisk.ca/municipalities/sar_ns.htm#BIRDS)
